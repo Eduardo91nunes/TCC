@@ -1,0 +1,85 @@
+.relatorioContainer {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  width: 800px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.relatorioContainer h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.filterContainer {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+.relatorioTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.relatorioTable th,
+.relatorioTable td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.relatorioTable th {
+  background-color: #4CAF50; 
+  color: white;
+  font-weight: bold;
+}
+
+.relatorioTable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+
+.buttonContainer {
+  display: flex;
+  justify-content: flex-start; 
+  gap: 10px;
+}
+
+
+.downloadButton {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.downloadButton:hover {
+  background-color: #45a049; 
+}
+
+.backButton {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.backButton:hover {
+  background-color: #d32f2f; 
+}
