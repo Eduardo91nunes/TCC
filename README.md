@@ -10,6 +10,7 @@
 Bem-vindo ao repositório do meu projeto de TCC! Este sistema de estoque foi desenvolvido para facilitar a gestão de produtos de forma prática e eficiente, utilizando tecnologias modernas como React, JavaScript, Firebase e React Router.
 
 🚀 Sobre o Projeto
+
 O Sistema de Estoque Web permite o controle de entradas, saídas e atualizações de produtos em um ambiente 100% online. O sistema foi projetado para ser intuitivo, responsivo e de fácil utilização, focado em atender pequenas e médias empresas que necessitam gerenciar seus estoques com eficiência.
 
 🛠️ Tecnologias Utilizadas
