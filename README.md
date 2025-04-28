@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# 📦 Sistema de Estoque Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## Available Scripts
+Bem-vindo ao repositório do meu projeto de TCC! Este sistema de estoque foi desenvolvido para facilitar a gestão de produtos de forma prática e eficiente, utilizando tecnologias modernas como React, JavaScript, Firebase, React Router e Axios.
 
-In the project directory, you can run:
+🚀 Sobre o Projeto
+O Sistema de Estoque Web permite o controle de entradas, saídas e atualizações de produtos em um ambiente 100% online. O sistema foi projetado para ser intuitivo, responsivo e de fácil utilização, focado em atender pequenas e médias empresas que necessitam gerenciar seus estoques com eficiência.
 
-### `npm start`
+🛠️ Tecnologias Utilizadas
+React — Criação da interface de usuário com componentes dinâmicos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+JavaScript — Lógica de programação e interatividade
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Firebase — Backend como serviço (autenticação, banco de dados e hospedagem)
 
-### `npm test`
+React Router — Gerenciamento de rotas de forma simples e eficaz
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+HTML5 & CSS3 — Estruturação e estilização das páginas
 
-### `npm run build`
+⚙️ Funcionalidades Principais
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Cadastro e edição de produtos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Controle de estoque (entradas e saídas)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Listagem e busca de produtos
 
-### `npm run eject`
+Autenticação de usuários (Firebase Authentication)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Integração com banco de dados em tempo real (Firebase Realtime Database)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Navegação dinâmica entre páginas com React Router
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Interface responsiva para dispositivos móveis
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+📚 Como Executar o Projeto
 
-## Learn More
+1º Clone o repositório:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2ºAcesse a pasta do projeto:
 
-### Code Splitting
+cd nome-do-projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3º Instale as dependências:
 
-### Analyzing the Bundle Size
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4º Configure as credenciais do Firebase (arquivo .env ou dentro da configuração do projeto)
 
-### Making a Progressive Web App
+5º Inicie o servidor de desenvolvimento:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+npm start
 
-### Advanced Configuration
+O projeto estará disponível em http://localhost:3000/ 🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+👨‍💻 Autor
+Eduardo Nunes
+Desenvolvedor Front-End apaixonado por tecnologia e inovação.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+LinkedIn (https://www.linkedin.com/in/eduardo-nunes-967336229/) 
